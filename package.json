@@ -1,0 +1,19 @@
+{
+  "name": "atlasbuilder-perf",
+  "version": "1.0.0",
+  "description": "Performance harness for testing atlasbuilder vs other comparable tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteward44/atlasbuilder-perf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteward44/atlasbuilder-perf/issues"
+  },
+  "homepage": "https://github.com/peteward44/atlasbuilder-perf#readme"
+}
